@@ -29,7 +29,7 @@ This application allows users to input text (such as a movie review) and receive
   * Naive Bayes
   * Support Vector Machine (SVM)
 
-* Final Model: SVM (selected based on highest accuracy)
+* Final Model: Logistic Regression (selected based on highest accuracy)
 
 ---
 
