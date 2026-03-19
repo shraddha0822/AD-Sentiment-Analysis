@@ -119,14 +119,7 @@ http://127.0.0.1:5000
 
 ## Deployment
 
-The application is deployed on Render and accessible through a public URL.
-
----
-
-## Notes
-
-* Ensure that the scikit-learn version matches between training and deployment.
-* Do not upload the `venv/` folder (use a `.gitignore` file).
+The application is deployed on Render and accessible through the public URL : https://ad-sentiment-analysis.onrender.com/
 
 ---
 
@@ -139,22 +132,3 @@ The application is deployed on Render and accessible through a public URL.
 * Deployed a full-stack ML application
 
 ---
-
-## Future Improvements
-
-* Add prediction confidence score
-* Improve UI/UX design
-* Extend to multi-class sentiment classification
-* Explore deep learning approaches (LSTM, BERT)
-
----
-
-## Author
-
-Shraddha
-
----
-
-## License
-
-This project is for academic and educational purposes.
